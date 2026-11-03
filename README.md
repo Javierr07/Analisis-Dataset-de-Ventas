@@ -43,8 +43,34 @@ Obtenemos nuestros datos realizaremos la limpieza y trasformacion dentro de Exce
 Despues de la limpieza y trasformacion de datos, podemos enfocarnos en obtener las KPIs relevantes y poder obtener informacion importante para explicar los hallazgos y metricas.
 
 - Cantidad de Ventas:
-#### **Fórmula:**
 ```excel
 =CONTARA(Ventas!A:A)
 ```
-
+- Productos vendidos:
+```excel
+=SUMA(Ventas!K:K)
+```
+- Media de productos vendidos por venta:
+```excel
+=PROMEDIO(Ventas!K:K)
+```
+- Ventas Totales:
+```excel
+=SUMA(Ventas!M:M)
+```
+- Costo Total:
+```excel
+=SUMA(Ventas!L:L)
+```
+- Margen de Ventas:
+```excel
+=E12-E16
+```
+- Margen Porcentual de Ventas:
+```excel
+=E20/E12
+```
+- Margen Porcentual en costos:
+```excel
+=E20/E16
+```
