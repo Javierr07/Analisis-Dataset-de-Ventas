@@ -36,3 +36,15 @@ Obtenemos nuestros datos realizaremos la limpieza y trasformacion dentro de Exce
 <img width="915" height="622" alt="image" src="https://github.com/user-attachments/assets/d1487f57-656a-4d75-b4dd-c1386a42c674" />
 
 - Inconsistencia con Nombres: En los campos Vendedor y Cliente se encontraron datos en los que hay errores de escritura por lo que se reemplazarmo los datos erroneos por los datos correctos.
+
+- Formato de Datos: Correccion del tipo de datos en todas las colummnas y en la colummna fecha se encontraron dos tipos de fechas por lo que se cambio el tipo de fecha para tener todos los datos con el mimo tipo de fecha.
+
+### 5.2 KPIS
+Despues de la limpieza y trasformacion de datos, podemos enfocarnos en obtener las KPIs relevantes y poder obtener informacion importante para explicar los hallazgos y metricas.
+
+- Cantidad de Ventas:
+#### **Fórmula:**
+```excel
+=CONTARA(Ventas!A:A)
+```
+
