@@ -74,3 +74,34 @@ Despues de la limpieza y trasformacion de datos, podemos enfocarnos en obtener l
 ```excel
 =E20/E16
 ```
+
+### 5.3 Dashboard
+El contenido del dashboar es el siguiente:
+- KPIs relevantes: Ventas Totales, Costos Totales, Margen, Margen Porcentuaal.
+- Grafico de barras de comparacion anual de las ventas totales.
+- Grafico de barras horizontal que muestar las ventas totales por cada vendedor.
+- Grafico de barras horizontal con las ventas por categoria.
+- grafico de barras con la variacion interanual en forma de porcentaje.
+- Grafico de barras donde muestra los años y volumen que vendio cada vendedor.
+
+<img width="1255" height="566" alt="image" src="https://github.com/user-attachments/assets/177e4724-3c15-4d79-848c-08a3150de57e" />
+
+
+## 6. Hallazgos
+- El 40% de la fuerza de ventas (Francisco Chávez, María González, María Jesús Cuesta y Pilar Pinilla) concentra el 72.27% del ingreso total ($2,347,118.90$). Se sugiere diseñar un plan de retención para estos perfiles clave y evaluar programas de capacitación para dinamizar el rendimiento del 60% restante de la fuerza comercial.
+
+- El 35% de las categorias (Bebidas, Carnes Enlatadas, Frutos Secos, Golosinas y Sopas) impulsa el 75% de las ventas totales de la empresa . El 65% restante de las categorías genera únicamente el 25% de los ingresos. Esto evidencia la necesidad de diseñar estrategias comerciales focalizadas (como campañas cruzadas o revisión de mix de productos) para potenciar el rendimiento de las categorías de baja rotación y equilibrar el portafolio.
+
+- Tras consolidar un periodo de expansión acelerada en 2020 (+65.44%) y un mantenimiento estables en 2021 (+5.54%) con un pico de facturación de $1,150,523.40$, el año 2022 experimenta una contracción severa del -69.77% frente al periodo anterior, cayendo incluso un -47.22% por debajo del nivel base de 2019.
+
+- La auditoría cruzada de transacciones por vendedor demuestra que el desplome del $-69.77% en 2022 no obedeció a una contracción del mercado, sino al cese de operaciones del 70% de la fuerza de ventas (7 de 10 vendedores registraron cero transacciones en el periodo). La facturación del año fue sostenida de forma aislada por solo 3 agentes (Francisco Chávez, Jesús Escolar y Juan Carlos Rivas), evidenciando una crisis crítica de retención de talento y desatención de cuentas clave.
+
+### 7. Retos
+Dentro de cada proyecto que realizo siempre hay retos nuevos que desafian mis habilidades y mas que estancarme me ayudan a pulir y mejorarlas, los retos que mas me exigieron enfoque fueron los siguientes:
+- Limpieza de datos: es el primer proyecto el cual su esncenario principal era lo muy desrodenado, inconcestente ycon errores de datos que mas dificil de correjir ha sido, sin embargo a lo largo de toda esta limpieza y trasformacion he logrado mejorar mucho el encontrar inconsistencias y ser mas detallista a la hora de tener los datos completamente listos para analizar.
+- Formulas: he mejodaro mucho a loa largo de la construccion de estos proyecto y una de las partes que aun no tengo muy dominado son las formulas, mas del lado de sintaxis ya que muchas veces tengo claro la logica y como aplicarla y son detalles los que me faltan por pulir el resto todo en orden.
+- Siempre el mostrar los hallazgos me ayudan a mejorar mi analisis y en eset caso no fue la excepcion, el investigar datos relevantes, sacar conclusiones, de ser nesesario recomendaciones es la escencia de este rol y el poder tener datos que respalden lsa conclusiones me anima mucho a seguir mejorando mis habilidades.
+
+## 7. Archivo proyecto completado
+- [Analisis-Ventas.zip](https://github.com/user-attachments/files/34327953/Analisis-Ventas.zip)
+
