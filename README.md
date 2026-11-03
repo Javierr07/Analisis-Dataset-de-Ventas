@@ -3,6 +3,10 @@
 ### 1. Descripcion
 Recibimos un Dataset con muchos errores e inconsistencias al cual le realizamos una limpieza y trasformacion enorme usando las herramientas de power wuery, y luego se realizo el analisis obteniendo las KPIs importantes, investigando patrones y anomalias que nos den un analisis mas preciso y presentando el dashboard que respalde los hallazgos.
 
+### Dashboard
+<img width="1393" height="587" alt="image" src="https://github.com/user-attachments/assets/be962acc-80bf-41d1-bf4c-6bfc2fce25b2" />
+
+
 ### 2. Objetivo
 Realizar el proceso de limpieza, trasformacion y analisis de datos del dataset usando power wuey y Excel, dando a conocer los conocimientos tecnicos y pensamiento analitico usando estas herramientas.
 
